@@ -2,11 +2,16 @@
 Conversor Internacional de Moedas
 
 Convesor internacional de várias moedas pelo mundo, projeto feito num canal de programação no youtube.
+<br>
+
+<p align="left">
+  <img alt="tech" src="./img/tech.png" width="50px" height="30px">
+</p>
 
 Tecnologias usadas: HTML5, CSS3, e Javascript.
 
 Aplicação com requisição externa de uma Api via http, para pegar os dados em tempo de real de cada moeda.
 
 <p align="left">
-  <img alt="rocketpay" src="./img/app.png" width="50%" height="30%">
+  <img alt="App" src="./img/app.png" width="50%" height="30%">
 </p>
