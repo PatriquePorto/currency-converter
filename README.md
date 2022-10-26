@@ -5,7 +5,7 @@ Convesor internacional de várias moedas pelo mundo, projeto feito num canal de 
 
 Tecnologias usadas: HTML5, CSS3, e Javascript.
 
-Aplicação com comunicação externa de uma Api para pegar os dados em tempo de real de cada moeda.
+Aplicação com requisição externa de uma Api via http, para pegar os dados em tempo de real de cada moeda.
 
 <p align="left">
   <img alt="rocketpay" src="./img/app.png" width="50%" height="30%">
