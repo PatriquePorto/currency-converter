@@ -5,7 +5,7 @@ Convesor internacional de várias moedas pelo mundo, projeto feito num canal de 
 <br>
 <br>
 <p align="left">
-  <img alt="tech" src="./img/tech2.png" width="50px" height="30px" border-radius="30px"> Tecnologias usadas: HTML5, CSS3, e Javascript.
+  <img alt="tech" src="./img/tech.png" width="50px" height="30px" border-radius="30px"> Tecnologias usadas: HTML5, CSS3, e Javascript.
 </p>
 <br>
 
